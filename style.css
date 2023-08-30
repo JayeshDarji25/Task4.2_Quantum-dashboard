@@ -42,7 +42,7 @@ body{
     padding: 23px 0px;
 }
 
-.active {
+.items > .active {
     border-bottom: 5px solid white;
     color: white;
 }

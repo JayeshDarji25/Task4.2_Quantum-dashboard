@@ -7,7 +7,6 @@ for(var i=0;i<itm.length;i++){
         if (current.length > 0) { 
             current[0].className = current[0].className.replace(" active", "");
           }
-        
         this.className += " active";
         });
 }
